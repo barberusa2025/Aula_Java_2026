@@ -1,0 +1,24 @@
+4 pilares fundamentais da Programacao Orientada a Objetos
+
+- HERANCA: Uma classe pode herdar atributos
+            e comportamentos de outra classe.
+    *extends
+
+
+- POLIMORFISMO: permite que um unico nome(metodo)
+                possa se referir a diferentes comportamentos
+                do obojeto que o chama.
+
+    *sobrecarga de metodos (overloading methods
+    *sobrescrita de metodos (overriding methods)
+
+
+
+- ABSTRACAO
+
+
+- ENCAPSULAMENTO: Restringe acesso a alguns dos compnentes da classe.
+                  Facilita a manutencao do codigo.
+    *public
+    *private
+    *protected
